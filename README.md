@@ -1,6 +1,6 @@
-# Dicoding - Flutter Fundamental
+  # Dicoding - Basic ML 
 
-Dicoding Course on Flutter Fundamental, I don't know why I write this, but this lab is consist of the codelab, some wike as for my brain dead reminder, and some samples from other people to understand the architecture
+Dicoding Course on Basic ML, the course covers all topic about the machine learning - 101. This repo contains all exercise and submission.
 
 ## Information
 
